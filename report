@@ -15,7 +15,7 @@
   <header><b>My Dashboard</b></header>
   <div class="wrap">
     <iframe
-      src="<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/c68d740f-312a-4df2-87d5-a6242a4f7c64/page/X66fF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>"
+       src="https://lookerstudio.google.com/embed/reporting/c68d740f-312a-4df2-87d5-a6242a4f7c64/page/X66fF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
       allowfullscreen>
     </iframe>
   </div>
